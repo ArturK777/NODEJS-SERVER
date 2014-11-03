@@ -1,0 +1,11 @@
+///////////////////////////////////////////////////////////
+// Nodelist format:
+// #;Groupe name // required
+// Name;addr;[port];[path];[user];[pass]
+
+#; Home Net
+HOME Main;192.168.8.1;;;admin;3210
+CAMERA;192.168.8.110;;/index.html;admin;admin666
+ENTER;192.168.8.97
+TEST;192.168.8.77;88;;admin;admin
+ASUS-777;192.168.8.220;8080;;admin;admin666
